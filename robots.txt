@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vfgemp6.github.io/official-m-i-game-com-cn/sitemap.xml
